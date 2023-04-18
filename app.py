@@ -1,4 +1,3 @@
-!pip install -q streamlit
 import streamlit as st
 st.header('User Input Parameters')
 
