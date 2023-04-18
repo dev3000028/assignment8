@@ -1,5 +1,5 @@
 import streamlit as st
-st.header('User Input Parameters')
+st.header('Largest number finder')
 
 First_integer=st.number_input("1st Integer")
 Second_integer=st.number_input("2nd Integer")
